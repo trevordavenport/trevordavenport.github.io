@@ -11,6 +11,7 @@ _21 July 2018_
   Censys.io
   crt.sh
   Sublist3r
+  theHarvester
   dnsrecon
   VirusTotal
   Shodan
